@@ -1,0 +1,86 @@
+code,detail,short,type
+a,Ask,Ask,num
+b,Bid,Bid,num
+b4,Book Value,BV,num
+c1,Change,Change,num
+c8,After Hours Change (Real-time),AHChg,num
+d2,Trade Date,Date,dt
+e7,EPS Estimate Current Year,EPSCY,num
+f6,Float Shares,Float,num
+j,52-week Low,52WkL,num
+g3,Annualized Gain,AnnGain,num
+g6,Holdings Gain (Real-time),HoldingsGain,num
+j1,Market Capitalization,MktCap,num
+j5,Change From 52-week Low,Chg52WkL,num
+k2,Change Percent (Real-time),ChgPctRT,num
+k5,Percebt Change From 52-week High,ChgPct52WkH,num
+l2,High Limit,HL,num
+m2,Day's Range (Real-time),DayRange,num
+m5,Change From 200-day Moving Average,Chg200Avg,num
+m8,Percent Change From 50-day Moving Average,PctChg50Avg,num
+o,Open,Open,num
+p2,Change in Percent,ChgPct,num
+q,Ex-Dividend Date,XDivDt,dt
+r2,P/E Ratio (Real-time),PERT,num
+r7,Price/EPS Estimate Next Year,PENY,num
+s7,Short Ratio,ShRatio,num
+t7,Ticker Trend,TickerTrnd,num
+v1,Holdings Value,HoldingsVal,num
+w1,Day's Value Change,DayValChg,num
+y,Dividend Yield,DivYield,num
+a2,Average Daily Volume,AvgVol,num
+b2,Ask (Real-time),AskRT,num
+b6,Bid Size,BidSize,num
+c3,Commission,Comm,num
+d,Dividend/Share,DPS,num
+e,Earnings/Share,EPS,num
+e8,EPS Estimate Next Year,EPSNY,num
+g,Day's Low,DayLow,num
+k,52-week High,52WkH,num
+g4,Holdings Gain,HoldingsGain,num
+i,More Info,MoreInfo,txt
+j3,Market Cap (Real-time),MktCapRT,num
+j6,Percent Change From 52-week Low,PctChg52WkL,num
+k3,Last Trade Size,LastTradeSize,num
+l,Last Trade (With Time),LastTrade,num
+l3,Low Limit,LowLimit,num
+m3,50-day Moving Average,50Avg,num
+m6,Percent Change From 200-day Moving Average,PctChg200Avg,num
+n,Name,Name,txt
+p,Previous Close,PrevClose,num
+p5,Price/Sales,PriceSales,num
+r,P/E Ratio,PE,num
+r5,PEG Ratio,PEG,num
+s,Symbol,Symbol,txt
+t1,Last Trade Time,LastTradeTm,tm
+t8,1 yr Target Price,1YrTgt,num
+v7,Holdings Value (Real-time),HoldingsValueRT,num
+w4,Day's Value Change (Real-time),DayValChgRT,num
+a5,Ask Size,AskSize,num
+b3,Bid (Real-time),BidRT,num
+c,Change & Percent Change,ChgPctChg,num
+c6,Change (Real-time),ChgRT,num
+d1,Last Trade Date,LastTradeDt,dt
+e1,Error Indication (returned for symbol changed / invalid),Error,txt
+e9,EPS Estimate Next Quarter,EPSNQ,num
+h,Day's High,DayHigh,num
+g1,Holdings Gain Percent,HoldingsGainPct,num
+g5,Holdings Gain Percent (Real-time),HoldingsGainPctRT,num
+i5,Order Book (Real-time),OBRT,num
+j4,EBITDA,EBITDA,num
+k1,Last Trade (Real-time) With Time,LastTradeRT,num
+k4,Change From 52-week High,Chg52WkH,num
+l1,Last Trade (Price Only),LastTrade,num
+m,Day's Range,DayRange,num
+m4,200-day Moving Average,200Avg,num
+m7,Change From 50-day Moving Average,Chg50Avg,num
+n4,Notes,Notes,txt
+p1,Price Paid,Price Paid,num
+p6,Price/Book,PriceBook,num
+r1,Dividend Pay Date,DivDt,dt
+r6,Price/EPS Estimate Current Year,PrcEPSCY,num
+s1,Shares Owned,Shares Owned,num
+t6,Trade Links,Trade Links,txt
+v,Volume,Vol,num
+w,52-week Range,52WkRng,num
+x,Stock Exchange,SE,txt
